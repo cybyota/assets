@@ -1,0 +1,14 @@
+[
+  {
+    "title": "CYBYOTA BLOCKCHAIN",
+    "url": "https://cybyotascan.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/cybyota/assets/main/frontend_info/icon.png"
+  },
+  {
+    "title": "CYBYOTA BLOCKCHAIN Testnet",
+    "url": "https://testnet-explorer.cybyotascan.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/cybyota/assets/main/frontend_info/icon.png"
+  }
+]
